@@ -51,4 +51,4 @@ Install graphviz (qcachegrind uses graphviz's dot application to generate the gr
            brew link graphviz
 * To open profile window of file generated in step (10) of first part run in xdebug-profiler folder: 
 qcachegrind <callgrind file name>
-e.g. qcachegrind callgrind._Escrow_Myoffers_XDEBUG_PROFILE\=1.1462598894
+e.g. qcachegrind callgrind._Sample_Url_XDEBUG_PROFILE\=1.1462598894
